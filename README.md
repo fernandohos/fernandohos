@@ -1,5 +1,5 @@
 ### Olá 👋
-Meu nome é Fernando e estou focado em aprender desenvolvimento front-end com as seguintes tecnologias:
+Meu nome é Fernando e estou focado em aprender desenvolvimento web front-end com as seguintes tecnologias:
 
 
 <div display="flex">
